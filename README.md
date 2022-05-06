@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @_Azzasp ;
+- 👋 Hi, I’m Pedro, also know as @_Azzasp ;
 - 👀 I’m interested in Design, audio and programming ;
 - 🌱 I’m currently learning JAVA, PHP and HTML/CSS;
 - 💞️ I’m looking to learn more about TI ;
