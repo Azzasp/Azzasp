@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Azzasp ;
+- 👋 Hi, I’m @_Azzasp ;
 - 👀 I’m interested in Design, audio and programming ;
-- 🌱 I’m currently learning C++;
+- 🌱 I’m currently learning JAVA, PHP and HTML/CSS;
 - 💞️ I’m looking to learn more about TI ;
 - 📫 u can reach me by email or idk ;
 
