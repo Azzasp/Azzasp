@@ -5,7 +5,7 @@
 
   <!-- Github Stats and Most used Languages -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Azzasp&bg_color=25,052e5c,02b25f&show_icons=true&border_radius=15px&title_color=fffefe&text_color=fffefe&hide_border=true&include_all_commits=true&repo=github-readme-stats" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Azzasp&bg_color=25,052e5c,02b25f&show_icons=true&border_radius=15px&title_color=fffefe&text_color=fffefe&hide_border=true&include_all_commits=true&repo=github-readme-stats" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azzasp&bg_color=25,052e5c,02b25f&hide_border=true&border_radius=15px&title_color=fffefe&text_color=fffefe&layout=compact" />
